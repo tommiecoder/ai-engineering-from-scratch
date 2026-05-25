@@ -2,6 +2,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+*.pt
+*.pth
+*.safetensors
 .Python
 env/
 venv/
